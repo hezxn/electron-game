@@ -1,2 +1,2 @@
 # electron-game
- RPS on electron
+ Rock Paper Scissors Game with electron JS
